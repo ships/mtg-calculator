@@ -2,8 +2,8 @@
 //  main.swift
 //  mtg-calculator
 //
-//  Created by James Quintana on 6/28/16.
-//  Copyright © 2016 jraqula. All rights reserved.
+//  Created by early evening on 6/28/16.
+//  Copyright © 2018 github.com/ships. All rights reserved.
 //
 
 import Foundation
