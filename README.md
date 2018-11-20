@@ -1,4 +1,4 @@
-# James' MTG calculator
+# Mana for MTG calculator
 
 I made a few decks with my brother and got tired of all the math.
 This program lets you put in card costs line-by-line for your deck,
